@@ -8,6 +8,9 @@ Controllerのみ実装しています。
 IntelliJでの起動を想定しています。  
 PetrestapiApplication.javaを開いてアプリケーションを起動してください。
 
+<img width="1788" alt="スクリーンショット 2023-06-24 17 51 37" src="https://github.com/yoshi-koyama/raiseTech-course-task7/assets/62045457/9c9f58be-c34e-4caf-bb92-ad2b0f29bcd4">
+
+
 # シェルスクリプト
 
 シェルスクリプトを用いてAPIの動作確認をします。  
